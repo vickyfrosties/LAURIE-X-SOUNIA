@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="tracé_livre" data-name="tracé livre" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 419 770">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #b24d76;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #fff;
+        stroke-width: 1.85px;
+      }
+
+      .cls-2 {
+        fill: #d8ab48;
+        stroke: #000;
+        stroke-width: 3px;
+      }
+
+      .cls-3 {
+        fill: #bf4b4b;
+      }
+    </style>
+  </defs>
+  <path class="cls-2" d="M270.58,119.46s-8.89-7.28-32.79-9.41-36.89,3.19-36.89,3.19l-52.12,533.02s-5.9,9.84,34.44,13.44c40.34,3.6,37.27-7.04,37.27-7.04l50.08-533.2Z"/>
+  <rect class="cls-1" x="206.87" y="157.82" width="29" height="186" transform="translate(419.57 520.31) rotate(-174.9)"/>
+  <ellipse class="cls-3" cx="188.4" cy="620.35" rx="26.5" ry="10" transform="translate(-446.23 752.88) rotate(-84.9)"/>
+</svg>
